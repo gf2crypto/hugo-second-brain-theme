@@ -24,6 +24,7 @@ The **Second Brain** starter template empowers you to easily create **personal n
   - highly **extensible**
   - **future-proof** & open source ❤️
 ```
+And this is math equation: $f(x)=\sin(\pi\cdot k\cdot x)+\varepsilon$.
 
 ## Public vs Private Second Brain
 
